@@ -1,0 +1,11 @@
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/CMakeFiles/test.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/CMakeFiles/main.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/CMakeFiles/edit_cache.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/CMakeFiles/rebuild_cache.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/lib/CMakeFiles/lodepng.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/lib/CMakeFiles/cs225.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/src/CMakeFiles/src.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/src/CMakeFiles/edit_cache.dir
+/workspaces/CS 225/release-f22-main/mp_clean_lists/build/src/CMakeFiles/rebuild_cache.dir
